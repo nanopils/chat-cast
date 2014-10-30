@@ -8,4 +8,5 @@ autopublish
 insecure
 urigo:angular
 force-ssl
+meteorhacks:npm
 
